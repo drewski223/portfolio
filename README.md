@@ -1,2 +1,0 @@
-# portfolio
-Astro with TinaCMS
